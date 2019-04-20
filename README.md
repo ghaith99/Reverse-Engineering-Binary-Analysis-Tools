@@ -1,6 +1,9 @@
 # Software Binary Analysis & Reverse Engineering Tools
 
 ## Tools
+
+If you have additions, please open an issue or pull-request.
+
 ### Table of contents
 * [Binary Analysis](#BinaryAnalysis)
 
